@@ -178,7 +178,7 @@ https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 1
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192293&extension=ts&play_token=Ad4Qb1efH7
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192293&extension=ts&play_token=Ad4Qb1efH7
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -186,7 +186,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192293&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 2
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192294&extension=ts&play_token=uzl0x9r9em
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192294&extension=ts&play_token=uzl0x9r9em
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -194,7 +194,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192294&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 3
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192295&extension=ts&play_token=jp1PIr5eWr
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192295&extension=ts&play_token=jp1PIr5eWr
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -202,7 +202,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192295&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 4
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192296&extension=ts&play_token=9Za6wOYLJy
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192296&extension=ts&play_token=9Za6wOYLJy
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -210,7 +210,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192296&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN FR 1
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491505&extension=ts&play_token=iD9Bpq0Cdd
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491505&extension=ts&play_token=iD9Bpq0Cdd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -218,7 +218,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491505&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN FR 2
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491458&extension=ts&play_token=tYpE3JqLue
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491458&extension=ts&play_token=tYpE3JqLue
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -226,7 +226,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491458&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN FR 3
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491456&extension=ts&play_token=JEYZkzTInM
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491456&extension=ts&play_token=JEYZkzTInM
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -234,7 +234,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491456&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN FR 4
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491455&extension=ts&play_token=azL61pGWtf
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491455&extension=ts&play_token=azL61pGWtf
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -242,7 +242,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491455&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN IT 1 BAR
-line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=395409&extension=ts&play_token=kFlag1A9XY
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=395409&extension=ts&play_token=kFlag1A9XY
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -250,7 +250,7 @@ line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=395409&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN IT 1
-http://103.146.100.2:80/HiFll2XSogYRvaj/KOBb78oDBd/787637?token=SEReU0dfFg8WUVIEVwgBAgUDBg0HUVMOBVdUVVRQB1ICXgRRBg4GUQQWGxRGRUZWVl9tXVAWWA4LVQEABh9HQUADRG1dUxYPFgUGBQcBBAEOEB4WQF0PXBFYBgQDBFEDAF4OCxgVRFxQFg0UDQMMAhUeEFFMQAdLXQNbbFVWE11QAxQIWkJYWRgWWFhqVVFeVlxWFg4WUhsfQF5AQRFfWkYKWh4WVV1BRlVDUxcLFgAGAAAWGBYBVkYMQ0FIEV8We
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/787637
 
 
 
