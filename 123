@@ -109,75 +109,20 @@ https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
 https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
- 
 
-            },
-            "SKY_PREMIER_LEAGUE": {
-                url: "https://linear015-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportspremierleague)/manifest_720.mpd",
-                k1: "0005f05c21a77f9475e05b177e70111a",
-                k2: "ca009f546f9348a3659d877e3f67ee19"
-            },
-            "SKY_SPORTS_MAIN_EVENT": {
-                url: "https://linear018-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsmainevent)/manifest_720.mpd",
-                k1: "0005fad32eb7fe7f488093e851d71c5f",
-                k2: "6342118978914afbc5fec26e93168b64"
-            },
-            "SKY_SPORTS_FOOTBALL": {
-                url: "https://linear027-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsfootball)/manifest_720.mpd",
-                k1: "0005598a4d0f91328444c6fcdea04acb",
-                k2: "ab03caec7a18da1fa6a8f306d91715a1"
-            },
-            "SKY_SPORTS_F1": {
-                url: "https://linear034-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skysportsf1)/manifest_720.mpd",
-                k1: "0005b57b9b4712e29641ac981ba8d3c2",
-                k2: "ca13cdd1b96bf1877d2c7ad9ee37d52e"
-            },
-            "BEIN1_TH": {
-                url: "https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd",
-                k1: "3fd52d1e9ba4b180aec12c9295b62c0f",
-                k2: "bb274e33da0c709e62c55d0cba911889"
-            },
-            "SKY_PREMIER_LG": {
-                url: "https://linear003-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_sd/Live/channel(skysportspremierleague)/manifest_sd.mpd",
-                k1: "0003e5d66d7501ff2930c80e9b5609fc",
-                k2: "32661be41b5b713dcd88683cd389af21"
-            },
-            "USA_NETWORK": {
-                url: "https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd",
-                k1: "882c9f5613b43b47adc70aa968a308ce",
-                k2: "de534ef8914bfe62ba3cdd6bdb9e1c04"
-            },
-            "ZIGGO_SELECT": {
-                url: "https://da-d436236720010b88000103030000000000000009.id.cdn.upcbroadband.com/wp/wp1-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000094_019321/go-dash-hdready-avc/NL_000094_019321.mpd",
-                k1: "16bf72dc22743d929c4318e193408373",
-                k2: "eae51a1e3904124963074cbf432c7c8e"
-            }, "ZIGGO_VOETBAL": {
-                url: "https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-hdready-avc/NL_000095_019371.mpd",
-                k1: "16bf72dc22743d929c4318e193408373",
-                k2: "eae51a1e3904124963074cbf432c7c8e"
-            },
-            "ZIGGO_DOCU": {
-                url: "https://da-d436236620010b88000103030000000000000008.id.cdn.upcbroadband.com/wp/wp5-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000098_019255/go-dash-hdready-avc/NL_000098_019255.mpd",
-                k1: "16bf72dc22743d929c4318e193408373",
-                k2: "eae51a1e3904124963074cbf432c7c8e"
-            },
-            "PREMIER_SPORTS_1_IRL": {
-                url: "https://linear001-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(premiersports1)/manifest_720.mpd",
-                k1: "00052a8b8b89655fe5c72f61970fc45b",
-                k2: "0aa687336a8329962a9affd5af46300c"
-            },
-            "ESPN_DEPORTES_USA_VPN": {
-                url: "https://linear.stvacdn.spectrum.com/LIVE/1166/dash/cenc/ESPNDHD_13667/manifest.mpd",
-                k1: "be65e5985fa04a49af310f0a92a0260a",
-                k2: "1acb5ff7b0dbfdf19c4dca1aabfaaa11"
-
+#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="Dazn Sport",DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192294&extension=ts&play_token=uzl0x9r9em
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 1 HD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192293&extension=ts&play_token=Ad4Qb1efH7
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -185,7 +130,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=19229
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 2
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 2 HD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192294&extension=ts&play_token=uzl0x9r9em
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -193,7 +138,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=19229
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 3
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN DE 3 HD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192295&extension=ts&play_token=jp1PIr5eWr
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
