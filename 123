@@ -37,7 +37,7 @@ http://line.clear-ocean.link/play/live.php?mac=00:1a:79:00:00:c7&stream=436222&e
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="|NL| ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NL SPORTS",|NL| ESPN  2main
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="|NL| ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NL SPORTS",|NL| ESPN  2main
 http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639297&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -45,10 +45,10 @@ http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639297&e
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="|NL| ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NL SPORTS",|NL| ESPN  2pro
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="|NL| ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NL SPORTS",|NL| ESPN  2pro
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/514197.ts
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 3line
+#EXTINF:-1 tvg-id="ESPN3.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 3line
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=436223&extension=ts&play_token=eUflhpDVGv
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -67,9 +67,28 @@ http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639298&e
 #EXTINF:-1 tvg-ID="espn3.nl" tvg-name="|NL| ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NL SPORTS",|NL| ESPN  3pro
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/514198.ts
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 pro
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 LINE
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:00:00:c7&stream=436224&extension=ts&play_token=kqgzMmhEQD
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 MAIN
 http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639299&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 PRO
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/514199.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTAR 3 HD
@@ -92,80 +111,6 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 
 
 
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", espn 2 nl
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e999e38253834baa63881ea451f2839:99b88d9cde1d8986decbc5985da87187
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://da-d436234420010b88000103020000000000000006.id.cdn.upcbroadband.com/wp/wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000108_019561/go-dash-hdready-avc/NL_000108_019561.mpd
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", espn 3 nl
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b18766306c8b4446a7431f3664976a5e:064cf3223b9c2bdda24e9f89bf28a6d2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://wp-obc5-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000109_019464/manifest.mpd
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", espn 4 nl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b18766306c8b4446a7431f3664976a5e:064cf3223b9c2bdda24e9f89bf28a6d2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://wp-obc1-live-nl-prod.prod.cdn.dmdsdp.com/dash/NL_000110_019562/manifest.mpd
-
-
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", ttttt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.webhd.ru/lb/premium379/index.m3u8|Origin=https://dlhd.so/embed/stream-379
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", tsn 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dea83ced0141424e983e1afe463b4b0d:c00dd5dd17b0799aa4013f365a1393ce
-https://live-ctv.video.9c9media.com/f/TSN/TSN1/manifest.mpd
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", tsn 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ddc52c88e2c24d38a5bc8dda8a2acb61:ad5ea485464a13eec7dda3249c556446
-https://live-ctv.video.9c9media.com/f/TSN/TSN2/manifest.mpd
-
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", tsn 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0f378ad54e14a9c85a3d8c986d2a51f:5e1d040743ff78715e464ffb905e68a9
-https://live-ctv.video.9c9media.com/f/TSN/TSN3/manifest.mpd
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", tsn 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f0a2efd11e0643c3a45d6f67d02f1a97:85bf4469003bd28f01ea4fefedd5a431
-https://live-ctv.video.9c9media.com/f/TSN/TSN4/manifest.mpd
-
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", tsn 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb57741a1cee422690c6294a06eb1320:7a0cfd493df6ef7cc0d0bb3ad95cec8c
-https://live-ctv.video.9c9media.com/f/TSN/TSN5/manifest.mpd
-      
-#EXTINF:-1 group-title="DAZN" tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500", sky uno
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
-https://linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd
-
-#EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="Dazn Sport",DAZN 1 DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-#http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192294&extension=ts&play_token=uzl0x9r9em
-https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-017/stream.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -246,18 +191,22 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=39540
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN IT 1
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=920093&extension=ts&play_token=N93pgO4Hx2&sn2=
-http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273579&extension=ts&play_token=nqNJiVz5Bd&sn2=
-http://unblock312.king-box.tv:80/c3ArqeSSeK/UWndd1KQge/318468?play_token=vSz4XVm8LN
-
-
-
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN IT 2
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN IT 1 2
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273579&extension=ts&play_token=nqNJiVz5Bd&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",DAZN IT 1 3
+http://unblock312.king-box.tv:80/c3ArqeSSeK/UWndd1KQge/318468?play_token=vSz4XVm8LN
 
 
 
@@ -279,7 +228,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=692415&
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_small1.png?v=2.0.0.13" group-title="DAZN",Zona Dazn 1 it
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273581&extension=ts&play_token=ifT4Xy1BU9&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273581&extension=ts&play_token=ifT4Xy1BU9&sn2=
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1057,7 +1006,7 @@ nl
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 1
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988726&extension=ts&play_token=GkKSMU4iBu&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988726&extension=ts&play_token=GkKSMU4iBu&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1065,7 +1014,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988726&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 2
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988725&extension=ts&play_token=7RrtFPWDVO&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988725&extension=ts&play_token=7RrtFPWDVO&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1073,7 +1022,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988725&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 3
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988724&extension=ts&play_token=BzzZSgBpTs&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988724&extension=ts&play_token=BzzZSgBpTs&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1081,7 +1030,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988724&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988723&extension=ts&play_token=WA1MltumDN&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988723&extension=ts&play_token=WA1MltumDN&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1089,7 +1038,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988723&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 group-title="SPORT PC 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988722&extension=ts&play_token=GvacuZRSal&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988722&extension=ts&play_token=GvacuZRSal&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1097,7 +1046,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988722&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 group-title="SPORT PC 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 2
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988721&extension=ts&play_token=BowLDjvy25&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988721&extension=ts&play_token=BowLDjvy25&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1105,7 +1054,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988721&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 group-title="SPORT PC 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 3
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988720&extension=ts&play_token=Xg78YSTcE7&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988720&extension=ts&play_token=Xg78YSTcE7&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1113,7 +1062,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988720&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 group-title="SPORT PC 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 4
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988719&extension=ts&play_token=DjIwfU0Ss1&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988719&extension=ts&play_token=DjIwfU0Ss1&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1121,7 +1070,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988719&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 group-title="SPORT PC 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 5
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988718&extension=ts&play_token=x6Z1WOMG61&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988718&extension=ts&play_token=x6Z1WOMG61&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1129,7 +1078,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988718&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 group-title="SPORT PC 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 6
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988717&extension=ts&play_token=KkqnX1c75q&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988717&extension=ts&play_token=KkqnX1c75q&sn2=
 
 fr
 
@@ -1139,7 +1088,7 @@ fr
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="SPORT PC 6",Canal+ sport 1
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507593&extension=ts&play_token=FwPLJhQ2lW&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507593&extension=ts&play_token=FwPLJhQ2lW&sn2=
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1148,7 +1097,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507593&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="SPORT PC 6",Canal+ epl
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507550&extension=ts&play_token=MOqxC5NJ64&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507550&extension=ts&play_token=MOqxC5NJ64&sn2=
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1157,7 +1106,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507550&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="SPORT PC 6",Canal+ Sport 360 HD
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1071007&extension=ts&play_token=ZazlKSdhTg&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1071007&extension=ts&play_token=ZazlKSdhTg&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1165,7 +1114,7 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1071007&extens
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="SPORT PC 6",Canal+ ligue
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507549&extension=ts&play_token=VZOMDmDPGA&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507549&extension=ts&play_token=VZOMDmDPGA&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -1173,76 +1122,75 @@ apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507549&extensi
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="SPORT PC 6",Canal+ F1
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507547&extension=ts&play_token=aXqFIeLWs6&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507547&extension=ts&play_token=aXqFIeLWs6&sn2=
 bein1
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507542&extension=ts&play_token=YYqZlBCbjD&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507542&extension=ts&play_token=YYqZlBCbjD&sn2=
 bein2
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507541&extension=ts&play_token=RMr0TMZeCE&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507541&extension=ts&play_token=RMr0TMZeCE&sn2=
 bein3
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507540&extension=ts&play_token=CV7g5SufWh&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507540&extension=ts&play_token=CV7g5SufWh&sn2=
 L'EQUIPE 
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507609&extension=ts&play_token=jIsoqtn3jx&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507609&extension=ts&play_token=jIsoqtn3jx&sn2=
 dazn1
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1616922&extension=ts&play_token=vZW1gsGysK&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1616922&extension=ts&play_token=vZW1gsGysK&sn2=
 
 pt
 dazn1
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621293&extension=ts&play_token=L9CQE3oRwi&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621293&extension=ts&play_token=L9CQE3oRwi&sn2=
 daz2
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621292&extension=ts&play_token=7u8j9CBl4Q&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621292&extension=ts&play_token=7u8j9CBl4Q&sn2=
 daz3
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621291&extension=ts&play_token=SnJa4BGiUe&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621291&extension=ts&play_token=SnJa4BGiUe&sn2=
 daz4
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621290&extension=ts&play_token=jWNLBrEt6z&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621290&extension=ts&play_token=jWNLBrEt6z&sn2=
 daz5
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621289&extension=ts&play_token=hhSvnHxER5&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621289&extension=ts&play_token=hhSvnHxER5&sn2=
 daz6
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621288&extension=ts&play_token=4WYV3gbbEi&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621288&extension=ts&play_token=4WYV3gbbEi&sn2=
 combat
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621287&extension=ts&play_token=hI24x9CUTI&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621287&extension=ts&play_token=hI24x9CUTI&sn2=
 women 
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621286&extension=ts&play_token=QinW0mh2wG&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621286&extension=ts&play_token=QinW0mh2wG&sn2=
 daz1sd
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621280&extension=ts&play_token=XQS9I3zoTe&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621280&extension=ts&play_token=XQS9I3zoTe&sn2=
 daz2
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621279&extension=ts&play_token=2rh1il1fIl&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621279&extension=ts&play_token=2rh1il1fIl&sn2=
 daz3
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621278&extension=ts&play_token=SnAgIRupmO&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621278&extension=ts&play_token=SnAgIRupmO&sn2=
 daz4
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621277&extension=ts&play_token=ScLG2ylxym&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621277&extension=ts&play_token=ScLG2ylxym&sn2=
 daz5
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621276&extension=ts&play_token=OPeS8C5rKa&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621276&extension=ts&play_token=OPeS8C5rKa&sn2=
 daz6
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621275&extension=ts&play_token=wSGBTBmhbj&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621275&extension=ts&play_token=wSGBTBmhbj&sn2=
 comb
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621274&extension=ts&play_token=coQbmpVcmz&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621274&extension=ts&play_token=coQbmpVcmz&sn2=
 women 
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621273&extension=ts&play_token=gKNUmnsH82&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621273&extension=ts&play_token=gKNUmnsH82&sn2=
 
 de
 daz1bar
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=411389&extension=ts&play_token=9mXk6awkfm&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=411389&extension=ts&play_token=9mXk6awkfm&sn2=
 daz2bar
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=411388&extension=ts&play_token=WxRAPP7oFD&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=411388&extension=ts&play_token=WxRAPP7oFD&sn2=
 daz1
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535705&extension=ts&play_token=4oUmSlaTbC&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535705&extension=ts&play_token=4oUmSlaTbC&sn2=
 da2
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535706&extension=ts&play_token=9GTOzwQgOI&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535706&extension=ts&play_token=9GTOzwQgOI&sn2=
 fast+
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535713&extension=ts&play_token=hbnuz36cfH&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535713&extension=ts&play_token=hbnuz36cfH&sn2=
 nba
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535723&extension=ts&play_token=nzmPsZ452D&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535723&extension=ts&play_token=nzmPsZ452D&sn2=
 Redbull 
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535732&extension=ts&play_token=oGQc0vpYm6&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535732&extension=ts&play_token=oGQc0vpYm6&sn2=
 rise
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535710&extension=ts&play_token=j5W0CgHjY0&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535710&extension=ts&play_token=j5W0CgHjY0&sn2=
 sportdigital 
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535716&extension=ts&play_token=Zj5hEwsjG8&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535716&extension=ts&play_token=Zj5hEwsjG8&sn2=
 unbeat
-apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535735&extension=ts&play_token=OjLfWs10P9&sn2=
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535735&extension=ts&play_token=OjLfWs10P9&sn2=
 
 italia
-
 
 
 
