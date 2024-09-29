@@ -48,7 +48,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639297&e
 #EXTINF:-1 tvg-ID="espn2.nl" tvg-name="|NL| ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NL SPORTS",|NL| ESPN  2pro
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/514197.ts
 
-#EXTINF:-1 tvg-id="ESPN3.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 3line
+#EXTINF:-1 tvg-id="ESPN3.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 3line
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=436223&extension=ts&play_token=eUflhpDVGv
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -72,7 +72,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/514198.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 LINE
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 4 LINE
 http://line.clear-ocean.link/play/live.php?mac=00:1a:79:00:00:c7&stream=436224&extension=ts&play_token=kqgzMmhEQD
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -80,7 +80,7 @@ http://line.clear-ocean.link/play/live.php?mac=00:1a:79:00:00:c7&stream=436224&e
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 MAIN
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 4 MAIN
 http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639299&extension=ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -88,7 +88,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639299&e
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 PRO
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 4 PRO
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/514199.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTAR 3 HD
@@ -1005,7 +1005,7 @@ nl
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 1
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 1
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988726&extension=ts&play_token=GkKSMU4iBu&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1013,7 +1013,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988726&
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 2
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 2
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988725&extension=ts&play_token=7RrtFPWDVO&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1021,7 +1021,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988725&
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 3
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 3
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988724&extension=ts&play_token=BzzZSgBpTs&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1029,7 +1029,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988724&
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 4
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988723&extension=ts&play_token=WA1MltumDN&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
