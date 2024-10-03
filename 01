@@ -1186,6 +1186,10 @@ http://iptv12k.com:35461/654321/123456/3207
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="sbs",ksbs sport
 http://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/vrdpmejtj0cu7blvdxv4zylgz6c2hx6gyv/playlist.m3u8
 
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="sbs",ksbs sport22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; V2030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.6312.42 Mobile Safari/537.36
+http://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/vrdpmejtj0cu7blvdxv4zylgz6c2hx6gyv/playlist.m3u8
+
 jtbc
 iptv12k.com:35461/654321/123456/3205
 
