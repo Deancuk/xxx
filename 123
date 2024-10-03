@@ -1,5 +1,40 @@
 #EXTM3U
 
+
+
+
+
+
+
+#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6da8c268d58a0fe4ff75d297359a8ad7:eb0ae4c2c24a52070154499bb09a36cb
+https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
+
+#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6da8c268d58a0fe4ff75d297359a8ad7:eb0ae4c2c24a52070154499bb09a36cb
+https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
+
+
+#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
+https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
+
+#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c467960712b92d436df3293a1cd9b9c5:04794df98011b6577af406594d831ef7
+https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/umbtod1may/out/v1/7e545f05ff0c448dbebc68ff11e19a7a/cenc.mpd
+
+#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
+https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
+
+
+
+/**********************************************************************************
 #EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://i.imgur.com/iPy34FK.png", PTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
