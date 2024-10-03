@@ -1182,3 +1182,10 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507540&
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="sbs",sbs sport
 http://iptv12k.com:35461/654321/123456/3207
+
+jtbc
+iptv12k.com:35461/654321/123456/3205
+
+sbs folf
+iptv12k.com:35461/654321/123456/3206
+
