@@ -2,53 +2,12 @@
 
 
 
-
-
-
-
-#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6da8c268d58a0fe4ff75d297359a8ad7:eb0ae4c2c24a52070154499bb09a36cb
-https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
-
-#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6da8c268d58a0fe4ff75d297359a8ad7:eb0ae4c2c24a52070154499bb09a36cb
-https://aba5sdmaaaaaaaamcs7bgwx2cgzhi.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bopqv4fykb/out/v1/01d1290c69584c7cbf58b8ab404ea1b8/cenc.mpd
-
-
-#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
-https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/dmmqe7ssji/out/v1/3775f3d149f34a7a81d8cd7d58118e40/cenc.mpd
-
-#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c467960712b92d436df3293a1cd9b9c5:04794df98011b6577af406594d831ef7
-https://ablayc7aaaaaaaamcey5j7rgggelg.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/umbtod1may/out/v1/7e545f05ff0c448dbebc68ff11e19a7a/cenc.mpd
-
-#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Emblem.png", AZ5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1badeadb11f16bbd0ad7d47914d939e:bd52d185d3537c4c1759db6d66f90f31
-https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
-
-
-
 /**********************************************************************************
 #EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://i.imgur.com/iPy34FK.png", PTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
 https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
-#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://i.imgur.com/iPy34FK.png", FTBL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
-#EXTINF:-1 group-title="SPORT 2" tvg-id="" tvg-logo="https://i.imgur.com/iPy34FK.png", ATR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -148,22 +107,8 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/514199.ts
 #KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
-#EXTM3U
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-name="Live Event" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png", SPORTSTAR 3 H
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "gss1OXXrZGjmGm_-A-P80g", "kid": "C9IUJhSRRcyRfZye8XVdBg"}], "type": "temporary"}
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 1 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 1 FHD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192293&extension=ts&play_token=Ad4Qb1efH7
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -179,7 +124,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=19229
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 3 HD
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 3 FHD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192295&extension=ts&play_token=jp1PIr5eWr
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -187,7 +132,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=19229
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 4 FHD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192296&extension=ts&play_token=9Za6wOYLJy
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -195,7 +140,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=19229
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 1 FHD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491505&extension=ts&play_token=iD9Bpq0Cdd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -203,7 +148,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=49150
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 2 FHD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491458&extension=ts&play_token=tYpE3JqLue
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -211,7 +156,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=49145
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 3
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 3 FHD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491456&extension=ts&play_token=JEYZkzTInM
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -219,7 +164,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=49145
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 4 FHD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491455&extension=ts&play_token=azL61pGWtf
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -227,7 +172,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=49145
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1 BAR
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1 BAR SD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=395409&extension=ts&play_token=kFlag1A9XY
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -235,7 +180,7 @@ http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=39540
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1 HD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=920093&extension=ts&play_token=N93pgO4Hx2&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -243,7 +188,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=920093&
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1 2
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1 2 HD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273579&extension=ts&play_token=nqNJiVz5Bd&sn2=
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -251,7 +196,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273579
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",SKY SPORT CALCIO
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qkrBGMd/skycalcio.png" group-title="SKY SPORT",SKY SPORT CALCIO HD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=692415&extension=ts&play_token=3Wros25gBy&sn2=
 
 
@@ -260,7 +205,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=692415&
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",Zona Dazn 1 it
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",Zona Dazn 1 it FHD
 http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273581&extension=ts&play_token=ifT4Xy1BU9&sn2=
 
 
@@ -269,7 +214,7 @@ http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273581
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 1 FR      
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 1 FR SD      
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/1124063.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -277,7 +222,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/1124063.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 2 FR 
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 2 FR SD 
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/1122938.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -285,7 +230,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/1122938.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 1 DE 
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 1 DE FHD2
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/403779.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -293,7 +238,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/403779.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN ZONA IT
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN ZONA IT HD
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/295337.ts
 
 FR
@@ -303,7 +248,7 @@ FR
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 1 LIVE SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR DAZN SPORT",DAZN FR 1 LIVE SD
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 1 LIVE SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 1 LIVE SD
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/1124063.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -311,7 +256,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/1124063.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 2 LIVE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR DAZN SPORT",DAZN FR 2 LIVE ᴴᴰ
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 2 LIVE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 2 LIVE SD
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/1122938.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -319,7 +264,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/1122938.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 3 LIVE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="FR DAZN SPORT",DAZN FR 3 LIVE ᴴᴰ
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 3 LIVE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 3 LIVE SD
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/1122937.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -407,7 +352,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/4848.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="espn.nl" tvg-name="ESPN 1" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN 1
+#EXTINF:-1 tvg-ID="espn.nl" tvg-name="ESPN 1" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN 1 HD2
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/4849
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -431,7 +376,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/4845.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="ESPN  2" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="ESPN",ESPN  2
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="ESPN  2" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="ESPN",ESPN  2 HD2
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/4846.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -455,7 +400,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/4842.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  3
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  3 HD2
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/4843.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -473,7 +418,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/4841.ts
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-ID="foxsports4.nl" tvg-name="ESPN  4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  4 ᴴᴰ
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/4839.ts
-#EXTINF:-1 tvg-ID="espn4.nl" tvg-name="ESPN  4" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  4
+#EXTINF:-1 tvg-ID="espn4.nl" tvg-name="ESPN  4" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  4 HD2
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/4840.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -515,7 +460,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/156157.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN DE FAST+" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN DE FAST+
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN DE FAST+" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN DE FAST+ SD
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/403741.ts
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -523,7 +468,7 @@ http://protv.rip:2082/twkyy95syf/h5ncaha57v/403741.ts
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="" tvg-name="DAZN DE RISE" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN DE RISE
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN DE RISE" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN DE RISE SD
 http://protv.rip:2082/twkyy95syf/h5ncaha57v/403740.ts
 
 
