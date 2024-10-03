@@ -1,0 +1,1171 @@
+#EXTM3U
+
+
+
+
+ESPN 
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN.NL" tvg-name="ESPN" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",NL ESPN 1 pro
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/514196.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  1 line
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=436221&extension=ts&play_token=0mydd7qWe4
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  1 main
+http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639296&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 2line
+http://line.clear-ocean.link/play/live.php?mac=00:1a:79:00:00:c7&stream=436222&extension=ts&play_token=TLn1Zbd1Y3
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  2main
+http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639297&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  2pro
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/514197.ts
+
+#EXTINF:-1 tvg-id="ESPN3.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 3line
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=436223&extension=ts&play_token=eUflhpDVGv
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  3main
+http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639298&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  3pro
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/514198.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 LINE
+http://line.clear-ocean.link/play/live.php?mac=00:1a:79:00:00:c7&stream=436224&extension=ts&play_token=kqgzMmhEQD
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 MAIN
+http://main.light-ott.net:80/play/live.php?mac=00:1a:79:33:1c:ef&stream=639299&extension=ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN4.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 4 PRO
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/514199.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn.nl" tvg-name="ESPN  1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="ESPN",ESPN  1 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4848.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn.nl" tvg-name="ESPN 1" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN 1 HD2
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4849
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn.nl" tvg-name="ESPN  1 H265" tvg-logo="http://138.199.27.237:8080/0tv_logo/3511.png" group-title="ESPN",ESPN  1 H265
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4847.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="ESPN  2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="ESPN",ESPN  2 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4845.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="ESPN  2" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="ESPN",ESPN  2 HD2
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4846.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn2.nl" tvg-name="ESPN  2 H265" tvg-logo="http://138.199.27.237:8080/0tv_logo/3512.png" group-title="ESPN",ESPN  2 H265
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4844.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  3 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4842.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  3 HD2
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4843.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="espn3.nl" tvg-name="ESPN  3 H265" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  3 H265
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4841.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="foxsports4.nl" tvg-name="ESPN  4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  4 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4839.ts
+#EXTINF:-1 tvg-ID="espn4.nl" tvg-name="ESPN  4" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  4 HD2
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4840.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="foxsports4.nl" tvg-name="ESPN  4 H265" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="ESPN",ESPN  4 H265
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4838.ts
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 1 NL 1
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988726&extension=ts&play_token=GkKSMU4iBu&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN 2 NL 1
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988725&extension=ts&play_token=7RrtFPWDVO&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 3 NL 1
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988724&extension=ts&play_token=BzzZSgBpTs&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="ESPN",NL ESPN NL 4 1
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988723&extension=ts&play_token=WA1MltumDN&sn2=
+
+
+
+******************************************DAZN*******************************************************************
+
+
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 1 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192293&extension=ts&play_token=Ad4Qb1efH7
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 2 HD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192294&extension=ts&play_token=uzl0x9r9em
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 3 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192295&extension=ts&play_token=jp1PIr5eWr
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN DE 4 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=192296&extension=ts&play_token=9Za6wOYLJy
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 1 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491505&extension=ts&play_token=iD9Bpq0Cdd
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 2 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491458&extension=ts&play_token=tYpE3JqLue
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 3 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491456&extension=ts&play_token=JEYZkzTInM
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 4 FHD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=491455&extension=ts&play_token=azL61pGWtf
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1 BAR SD
+http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=395409&extension=ts&play_token=kFlag1A9XY
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1 HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=920093&extension=ts&play_token=N93pgO4Hx2&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN IT 1 2 HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273579&extension=ts&play_token=nqNJiVz5Bd&sn2=
+
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",Zona Dazn 1 it FHD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1273581&extension=ts&play_token=ifT4Xy1BU9&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 1 FR SD      
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/1124063.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 2 FR SD 
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/1122938.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN 1 DE FHD2
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403779.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN ZONA IT HD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/295337.ts
+
+FR
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 1 LIVE SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 1 LIVE SD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/1124063.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 2 LIVE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 2 LIVE SD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/1122938.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN FR 3 LIVE ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12983.png?ver=89182" group-title="DAZN",DAZN FR 3 LIVE SD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/1122937.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|BE| WOMENS FOOTBALL ˢᴰ" tvg-logo="http://138.199.27.237:8080/EUROPE/BELGIUM/WOMENS FOOTBALL.png" group-title="DAZN",WOMENS FOOTBALL ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/525704.ts
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="dazn1.de" tvg-name="DAZN DE 1" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DE  SPORT",DAZN DE 1 FHD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403779.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="dazn2.de" tvg-name="DAZN DE 2" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DE  SPORT",DAZN DE 2 FHD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403780.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|DE| Sportdigital ᴴᴰ DE" tvg-logo="http://138.199.27.237:8080/GERMANY/SPORTDIGITAL.png" group-title="DAZN",Sportdigital ᴴᴰ DE
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/156157.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN DE FAST+" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN DE FAST+ SD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403741.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="DAZN DE RISE" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN DE RISE SD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403740.ts
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="dazn1.de" tvg-name="DAZN DE SPORT 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN DE 1 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/264732.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="dazn2.de" tvg-name="DAZN DE SPORT 2 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN DE 2 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/264734.ts
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| DAZN ELEVEN 1 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="DAZN",DAZN ELEVEN 1 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403744.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|DAZN ELEVEN 2 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="DAZN",DAZN ELEVEN 2 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403745.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|DAZN ELEVEN 3 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="DAZN",DAZN ELEVEN 3 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403746.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|DAZN ELEVEN 4 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="DAZN",DAZN ELEVEN 4 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403747.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|PT|DAZN ELEVEN 5 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="DAZN",DAZN ELEVEN 5 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403748.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|PT| DAZN ELEVEN 6 ᴴᴰ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12401.jpg?ver=50787" group-title="DAZN",DAZN ELEVEN 6 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403749.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| DAZN COMBAT" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN UK COMBAT
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403742
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="|UK| DAZN UNBEATEN" tvg-logo="http://138.199.27.237:8080/ITALY/DAZN.png" group-title="DAZN",DAZN UK UNBEATEN
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403782
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| DAZN WOMENS FOOTBALL" tvg-logo="http://138.199.27.237:8080/SPAIN/DAZN.png" group-title="DAZN",DAZN UK WOMENS FOOTBALL
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/403739
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",L'EQUIPE
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507609&extension=ts&play_token=jIsoqtn3jx&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 1 FR
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1616922&extension=ts&play_token=vZW1gsGysK&sn2=
+
+pt
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 1 PT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621293&extension=ts&play_token=L9CQE3oRwi&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 2 PT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621292&extension=ts&play_token=7u8j9CBl4Q&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 3 PT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621291&extension=ts&play_token=SnJa4BGiUe&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 4 PT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621290&extension=ts&play_token=jWNLBrEt6z&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 5 PT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621289&extension=ts&play_token=hhSvnHxER5&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 6 PT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621288&extension=ts&play_token=4WYV3gbbEi&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN COMBAT PT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621287&extension=ts&play_token=hI24x9CUTI&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN WOMEN FOOTBALL PT
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621286&extension=ts&play_token=QinW0mh2wG&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 1 PT SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621280&extension=ts&play_token=XQS9I3zoTe&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 2 PT SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621279&extension=ts&play_token=2rh1il1fIl&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 3 PT SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621278&extension=ts&play_token=SnAgIRupmO&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 4 PT SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621277&extension=ts&play_token=ScLG2ylxym&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 5 PT SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621276&extension=ts&play_token=OPeS8C5rKa&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 6 PT SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621275&extension=ts&play_token=wSGBTBmhbj&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 1 PT COMBAT SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621274&extension=ts&play_token=coQbmpVcmz&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN WOMEN FOOTBALL PT SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1621273&extension=ts&play_token=gKNUmnsH82&sn2=
+
+de
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 1 BAR DE SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=411389&extension=ts&play_token=9mXk6awkfm&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 2 BAR DE SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=411388&extension=ts&play_token=WxRAPP7oFD&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 1 DE SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535705&extension=ts&play_token=4oUmSlaTbC&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN 2 DE SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535706&extension=ts&play_token=9GTOzwQgOI&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN DE FAST SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535713&extension=ts&play_token=hbnuz36cfH&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN DE NBA SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535723&extension=ts&play_token=nzmPsZ452D&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN FAST DE SD
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN RISE DE SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535710&extension=ts&play_token=j5W0CgHjY0&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN SPORTDIGITAL DE SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535716&extension=ts&play_token=Zj5hEwsjG8&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="DAZN",DAZN UNBEATEN DE SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1535735&extension=ts&play_token=OjLfWs10P9&sn2=
+
+
+**********************ZIGGO**************************************************************
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 group-title="ZIGGO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 1 SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988722&extension=ts&play_token=GvacuZRSal&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 group-title="ZIGGO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 2 SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988721&extension=ts&play_token=BowLDjvy25&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 group-title="ZIGGO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 3 SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988720&extension=ts&play_token=Xg78YSTcE7&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 group-title="ZIGGO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 4 SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988719&extension=ts&play_token=DjIwfU0Ss1&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 group-title="ZIGGO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 5 SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988718&extension=ts&play_token=x6Z1WOMG61&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 group-title="ZIGGO" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/17/PvNvZ.png",ZIGGO SPORT 6 SD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=988717&extension=ts&play_token=KkqnX1c75q&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="ziggosportextra1.nl" tvg-name="Ziggo Sport Extra 1" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORT.png" group-title="ZIGGO",Ziggo Sport Extra 1 FHD
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4857.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="ziggosportextra1.nl" tvg-name="Ziggo EXSTRA  1H265" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTEXTRA1.png" group-title="ZIGGO",Ziggo EXSTRA  1H265
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4858.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="ziggosportracing.nl" tvg-name="Ziggo Sport Racing ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTRACING.png" group-title="ZIGGO",Ziggo Sport Racing ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4851.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="ziggosportracing.nl" tvg-name="Ziggo Sport Racing H265" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTRACING.png" group-title="ZIGGO",Ziggo Sport Racing H265
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4850.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="ziggosportselect.nl" tvg-name="Ziggo Sport Select ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTSELECT.png" group-title="ZIGGO",Ziggo Sport Select ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4864.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="ziggosportselect.nl" tvg-name="Ziggo Sport Select H265" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTSELECT.png" group-title="ZIGGO",Ziggo Sport Select H265
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4863.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="Ziggo Sport Voetbal ᴴᴰ" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="ZIGGO",Ziggo Sport Voetbal ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4861.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="ziggosportvoetbal.nl" tvg-name="Ziggo Sport Voetbal H265" tvg-logo="http://138.199.27.237:8080/NEDERLAND/ZIGGOSPORTVOETBAL.png" group-title="ZIGGO",Ziggo Sport Voetbal H265
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/4860.ts
+
+
+
+
+
+
+
+*********************SKY SPORTS**************************************************************
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qkrBGMd/skycalcio.png" group-title="SKY SPORTS",SKY SPORT CALCIO HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=692415&extension=ts&play_token=3Wros25gBy&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportcalcio.it" tvg-name="|IT| SKY SPORT CALCIO  ˢᴰ" tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-ITALY/SKYSPORTS.png" group-title="SKY SPORTS",|IT| SKY SPORT CALCIO  ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/41044.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportsracing.uk" tvg-name="|UK| SKY SPORTS RACING ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/RACINGUK.png" group-title="SKY SPORTS",|UK| SKY SPORTS RACING ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205918.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportspremiereleague.uk" tvg-name="|UK| SKY SPORTS PREMIER LEAGUE ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSPREMIERLEAGUE.png" group-title="SKY SPORTS",|UK| SKY SPORTS PREMIER LEAGUE ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205919.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportsnews.uk" tvg-name="|UK| SKY SPORTS NEWS ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSNEWS.png" group-title="SKY SPORTS",|UK| SKY SPORTS NEWS ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205920
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportsmix.uk" tvg-name="|UK| SKY MIX ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMIX.png" group-title="SKY SPORTS",|UK| SKY MIX ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205921
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="92news.uk" tvg-name="|UK| SKY MAIN EVENT ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSMAINEVENT.png" group-title="SKY SPORTS",|UK| SKY MAIN EVENT ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205922
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="|UK| SKY F1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSF1.png" group-title="SKY SPORTS",|UK| SKY F1 ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205923
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportsfootball.uk" tvg-name="|UK| SKY SPORTS FOOTBALL ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSFOOTBALL.png" group-title="SKY SPORTS",|UK| SKY SPORTS FOOTBALL ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205924
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportsgolf.uk" tvg-name="|UK| SKY GOLF ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSGOLF.png" group-title="SKY SPORTS",|UK| SKY GOLF ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205925
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportscricket.uk" tvg-name="|UK| SKY CRICKET ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSCRICKET.png" group-title="SKY SPORTS",|UK| SKY CRICKET ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205926
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="skysportsarena.uk" tvg-name="|UK| SKY ARENA ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/SKYSPORTSARENA.png" group-title="SKY SPORTS",|UK| SKY ARENA ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205927
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 2 ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="SKY SPORTS",|UK| PREMIER SPORTS 2 ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205912
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="premiersports.uk" tvg-name="|UK| PREMIER SPORTS 1 ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/PREMIERSPORT.png" group-title="SKY SPORTS",|UK| PREMIER SPORTS 1 ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205913
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="mutv.uk" tvg-name="|UK| MUTV ˢᴰ" tvg-logo="http://138.199.27.237:8080/UK/MUTV.png" group-title="SKY SPORTS",|UK| MUTV ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205877
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="liverpoolfctv.uk" tvg-name="|UK| LFC ˢᴰ" tvg-logo="https://pbs.twimg.com/profile_images/1424372481872310281/2Xh7jA1L_400x400.png" group-title="SKY SPORTS",|UK| LFC ˢᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/205874
+
+
+**********************OPTUS*********************************************
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 1 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 1 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304468
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 2 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 2 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304469
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 3 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 3 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304470
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 4 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 4 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304471
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 5 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 5 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304472
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 6 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 6 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304473
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 7 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 7 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304474
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 8 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 8 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304475
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 9 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 9 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304476
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 10 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 10 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304477
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-ID="" tvg-name="OPTUS SPORT 11 ᴴᴰ" tvg-logo="http://dmtn.tv:8080/images/ATE1u0LvRp-IvekRPtxWVYp320ih8dvxw23inn9lnxkI-RIPzRbvoTcTHJEtlVdu.png" group-title="OPTUS",OPTUS SPORT 11 ᴴᴰ
+http://protv.rip:2082/twkyy95syf/h5ncaha57v/304478
+
+
+*********************************************CANAL+******************************************************
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="CANAL+",Canal+ sport 1
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507593&extension=ts&play_token=FwPLJhQ2lW&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="CANAL+",Canal+ epl
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507550&extension=ts&play_token=MOqxC5NJ64&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport360.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-plus-sport-360-fr.png" tvg-name="Canal+ Sport 360 FHD"  group-title="CANAL+",Canal+ Sport 360 HD
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=1071007&extension=ts&play_token=ZazlKSdhTg&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="CANAL+",Canal+ ligue
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507549&extension=ts&play_token=VZOMDmDPGA&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="CANAL+",Canal+ F1
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507547&extension=ts&play_token=aXqFIeLWs6&sn2=
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="CANAL+",BEIN 1 FR
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507542&extension=ts&play_token=YYqZlBCbjD&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="CANAL+",BEIN 2 FR
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507541&extension=ts&play_token=RMr0TMZeCE&sn2=
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1, tvg-id="CanalPlusSport.fr" tvg-logo="https://static.epg.best/fr/CanalPlusSport.fr.png" tvg-name="Canal+ Sport 1"  group-title="CANAL+",BEIN 3 FR
+http://apk.androidtrex.com:80/play/live.php?mac=00:1a:79:b5:ad:1c&stream=507540&extension=ts&play_token=CV7g5SufWh&sn2=
+
