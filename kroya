@@ -84,10 +84,20 @@ http://jm04.modhospital.kr:9981/stream/channelid/50?ticket=C0CDE9DA96BC605732F0C
 #EXTINF:-1,KBS JOY
 http://jm04.modhospital.kr:9981/stream/channelid/81?ticket=14593D3784E54C60E80A3F0F31362205C516B5C3
 
-#EXTINF:-1,KBS 스토리
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-name="KR: KBS스포츠 KR" tvg-logo="https://kmug.co.kr/data/file/design/thumb-data_logo_KBS%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EB%A1%9C%EA%B3%A0_600x0.jpg" group-title="VOLLY KOREA",00 KR: KBS스포츠 KR
 http://jm04.modhospital.kr:9981/stream/channelid/53?ticket=EE7C430EF22AA4253EF537DF234982DBF22F0E6C
 
-#EXTINF:-1,KBSN스포츠
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-name="KR: KBS스포츠 KR" tvg-logo="https://kmug.co.kr/data/file/design/thumb-data_logo_KBS%EC%8A%A4%ED%8F%AC%EC%B8%A0_%EB%A1%9C%EA%B3%A0_600x0.jpg" group-title="VOLLY KOREA",00 KR: KBSN스포츠
 http://jm04.modhospital.kr:9981/stream/channelid/92?ticket=3113EBE4C7739826A7E217F7CDFE956D7B7760C1
 
 #EXTINF:-1,KBS드라마
@@ -111,7 +121,12 @@ http://jm04.modhospital.kr:9981/stream/channelid/88?ticket=55F303157B069FF21B3C6
 #EXTINF:-1,MBC드라마넷
 http://jm04.modhospital.kr:9981/stream/channelid/23?ticket=6F110EF224758E281E9FCA81E32B081A25139272
 
-#EXTINF:-1,MBC스포츠+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-name="KR: MBC스포츠 KR" tvg-logo="https://blog.kakaocdn.net/dn/bmqjWS/btqDOIVjuIM/gNBvNgoLbnUASicgqyHyy0/img.jpg" group-title="VOLLY KOREA",KR: MBC스포츠 KR
 http://jm04.modhospital.kr:9981/stream/channelid/93?ticket=8C49B67B7B36CD33B293B23C8E5057B9F1BDFF14
 
 #EXTINF:-1,MBC에브리원
@@ -147,7 +162,12 @@ http://jm04.modhospital.kr:9981/stream/channelid/16?ticket=4D2EEF1A900627D4581ED
 #EXTINF:-1,SBSfunE
 http://jm04.modhospital.kr:9981/stream/channelid/72?ticket=E41D3D9171CF6373593D82092902057318A4D736
 
-#EXTINF:-1,SBS스포츠
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-name="KR: SBS스포츠 KR" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FctkSdK%2FbtqDWr6nsCE%2F6OCIsMnprjRYR86Lcp9Msk%2Fimg.jpg" group-title="VOLLY KOREA",00 KR: SBS스포츠 KR
 http://jm04.modhospital.kr:9981/stream/channelid/64?ticket=62770DAD4FE9151466AA4ED820FFA088036D4FCD
 
 #EXTINF:-1,SBS플러스
@@ -156,10 +176,22 @@ http://jm04.modhospital.kr:9981/stream/channelid/36?ticket=DD547C8C4FC5D4809C585
 #EXTINF:-1,SK스토아
 http://jm04.modhospital.kr:9981/stream/channelid/45?ticket=DBBB85D90B0DFBE793864EFE39C4D2D86AD395B9
 
-#EXTINF:-1,SPOTV
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="VOLLY KOREA",00 KR: SPOTV1 KR
+http://iptv12k.com:35461/654321/123456/3215
 http://jm04.modhospital.kr:9981/stream/channelid/8?ticket=9A093C8407780EE741C80BB5E28EE9E1A36FD753
 
-#EXTINF:-1,SPOTV2
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-name="KR: SPOTV KR" tvg-logo="https://blog.kakaocdn.net/dn/8bikz/btqYve08hSr/uiKeiPGPWrreloHnEW7vIk/img.png" group-title="VOLLY KOREA",09 KR: SPOTV2 KR
+http://iptv12k.com:35461/654321/123456/3215
 http://jm04.modhospital.kr:9981/stream/channelid/107?ticket=DA6D8290EA45502B7F5F85E607A4C24206E32B31
 
 #EXTINF:-1,STB상생방송
