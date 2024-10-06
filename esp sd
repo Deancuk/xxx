@@ -5,7 +5,7 @@
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-ID="espn1.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NL SPORTS",ESPN  1
+#EXTINF:-1 tvg-ID="espn1.nl" tvg-name="ESPN  3" tvg-logo="http://138.199.27.237:8080/USA/ESPNUHD.png" group-title="NL SPORTS",ESPN  1 SD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=436221&extension=ts&play_token=0mydd7qWe4
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -21,7 +21,7 @@ http://line.clear-ocean.link/play/live.php?mac=00:1a:79:00:00:c7&stream=436222&e
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="ESPN3.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.NL" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png" group-title="NL SPORTS",NL ESPN 3 SD
 http://line.clear-ocean.link:80/play/live.php?mac=00:1a:79:00:00:c7&stream=436223&extension=ts&play_token=eUflhpDVGv
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
