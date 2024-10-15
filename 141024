@@ -28,8 +28,11 @@ https://dai.google.com/linear/hls/event/L8dx9aRVSWm-UTVLYoagqg/master.m3u8
 https://dai.fancode.com/primary/110299_english_hls_6070ta-di/index.m3u8
 
 
-
-
+#EXTINF:-1 group-title="🔴NASIONAL" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png", Fanc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff
 
 
 
