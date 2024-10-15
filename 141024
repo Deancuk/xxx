@@ -24,7 +24,8 @@ http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/778
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="Fancode", Fancode
 https://dai.google.com/linear/hls/event/L8dx9aRVSWm-UTVLYoagqg/master.m3u8
 
-
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="Fancode", Fancode2
+https://dai.fancode.com/primary/110299_english_hls_6070ta-di/index.m3u8
 
 
 
