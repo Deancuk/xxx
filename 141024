@@ -1,26 +1,30 @@
 
-es 4
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 4
 http://vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308164
-es xtra
-vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308172
-es 1
-vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308175
-es 2
-vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308176
-es3
-vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308177
-es 4
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL XTRA
+http://vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308172
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 1
+http://vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308175
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 2
+http://vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308176
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 3
+http://vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308177
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 4 1
 vipzeus4k.xyz:8080/Alfa208V/cSaYJ5M/308178
 
-es1
-line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/2956
-es2
-line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/776
-es3
-line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/777
-es4
-line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/778
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 1L
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/2956
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 2L
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/776
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 3L
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/777
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://raw.githubusercontent.com/Acil2125/ciaelah/main/idn/espn.png" group-title="|SPORTS| Premium 1⚽🚩", ESPN NL 4L
+http://line.sweet-4k.cc:80/HiFll2XSogYRvaj/KOBb78oDBd/778
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="🔴NASIONAL", es1 T
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86747cbe4522e9de3449e99e652937eb:deef18902836432ab817d803cac282cf
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn/Manifest.mpd
 
 
 
