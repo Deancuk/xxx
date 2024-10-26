@@ -1,30 +1,22 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86563e9878ce4ea7b4018ead5bb476f7:a2c8e54e72e36770bb5766ad0c4e7d53
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="Test",Sportstars 3 (V+🟦)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="Test",Sportstars 3 1(V+🟦)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="Sports",Sportstars 33 (V+🟦)
-https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="WORLD CUP Q",Sportstars 3 (V+)
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST E
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=:https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=86747cbe4522e9de3449e99e652937eb&kid=deef18902836432ab817d803cac282cf&token=altec
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn/Manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=86747cbe4522e9de3449e99e652937eb:deef18902836432ab817d803cac282cf
+#EXTINF:-1 tvg-logo="" group-title="test",1
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn/Manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86747cbe4522e9de3449e99e652937eb:deef18902836432ab817d803cac282cf
+#EXTINF:-1 tvg-logo="" group-title="test",1
+https://cdsvideolive3.solocoo.tv/blueskycdslive7dash/blueespn/Manifest.mpd
 
 
-Channel Name:
-• SPORTSTAR 3
 
-Manifest:
-• https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
-
-Key:
-• 86563e9878ce4ea7b4018ead5bb476f7:a2c8e54e72e36770bb5766ad0c4e7d53
