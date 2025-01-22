@@ -1,5 +1,76 @@
 
 
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",80
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-080/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",79
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-079/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",78
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-078/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",77
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-077/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",76
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-076/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",75
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-075/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",74
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-074/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",73
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-073/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",72
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-072/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
+
+#EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-071/stream.mpd?p=web&dazm-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9eyJleHAiOjE3MDU4ODg1ODIsImtpZCI6IjIwMjIxMTIzIiwicGF0aF9kIjoyLCJwYXRoIjoiNzE1N2E4Yzc3M2FlZTNhMDQyNTIyZWU5NGYxZWQ5MzZhMGYxMzg3NCIsImdlbyI6InB0IiwiaWF0IjoxNzA1ODQ1MzgyfQ 
+
 
 
 #EXTINF:-1 group-title="DAZN" tvg-id="daznlaliga.es" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/PDI7Q.png",70
